@@ -1,0 +1,148 @@
+body{
+    background-color: rgb(73, 177, 73);
+}
+.header{
+    background: url(study.jpg);
+    margin: 30px;
+    height: 40vh;
+    padding: 20px;
+}
+.top-nav{
+    list-style: none;
+}
+.logo{
+    margin-top: 10px;
+    color: rgb(9, 115, 202);
+    font-size: 20px;
+}
+.log-in{
+    float: right;
+    background-color: rgb(9, 115, 202);
+    color: white;
+    padding: 5px;
+    width: 8%;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid rgb(9, 115, 202);
+    font-size: 10px;
+    line-height: 20px;
+}
+.head{
+    text-align: center;
+}
+.first-text{
+    font-size: 40px;
+    margin-top: 30px;
+    color: white;
+}
+.second-text{
+    font-size: 13px;
+    color: gray;
+}
+.sign-up{
+    background-color: rgb(9, 115, 202);
+    color: white;
+    padding: 5px;
+    width: 30%;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid rgb(9, 115, 202);
+    font-size: 10px;
+    line-height: 30px;
+    margin-top: 20px;
+}
+.wrap{
+    margin: 40px;
+}
+.choose{
+    font-size: 15px;
+    font-weight: 800;
+    margin-left: 50px;
+}
+.self{
+    font-size: 30px;
+    margin-left: 50px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+    color: grey;
+    font-size: 15px;
+    margin: 20px 20px;
+}
+.wrapone{
+    margin-top: 40px;
+}
+.box{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 10px 10px 5px rgb(206, 202, 202);
+}
+.part{
+    background: url(study.jpg);
+    margin: 20px;
+    height: 30vh;
+    padding: 20px;
+}
+.more{
+    font-size: 15px;
+    font-weight: 800;
+    margin-left: 80px;
+    color: white;
+}
+.self1{
+    font-size: 30px;
+    margin-left: 100px;
+    color: white;
+}
+.content1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+    color: white;
+    font-size: 15px;
+    margin: 20px 20px;
+}
+.center{
+    margin-top: 50px;
+}
+ul{
+    list-style-type: none;
+}
+.col_1{
+    margin-top: 20px;
+}
+.para-1{
+    font-size: 10px;
+    font-weight: 900;
+}
+.list, li{
+    font-size: 10px;
+    padding: 10px;
+    font-weight: 900;
+}
+.list-icon{
+    margin: 5px;
+    padding: 10px;
+}
+.wraptwo{
+    margin-top: 50px;
+}
+.footer{
+    font-size: 10px;
+    margin: 10px;
+    font-weight: 900;
+    padding: 20px;
+}
+.footer-text1{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.footer-text2{
+    float: right;
+    margin-bottom: 30px;
+}
